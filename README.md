@@ -1,6 +1,6 @@
 # Redemption - Risk of Rain 2 Mod
 
-Created by **Phorg**.
+Created by **Phorg**. https://thunderstore.io/package/Phorg/Redemption/
 
 ---
 
